@@ -1,7 +1,9 @@
 # minecraft
  customize minecraft modpack
 
+请勿上传你的本体测试地图！
 
+Do not upload your local test map!
 
 Minecraft Version: 1.20.1
 
@@ -14,7 +16,7 @@ Mod List:
 | Name                          | Version             | Status | Description                                                  | Author        | Type             |
 | ----------------------------- | ------------------- | ------ | ------------------------------------------------------------ | ------------- | ---------------- |
 | Architectury API              | 9.2.14+forge        | 启用   | An intermediary api aimed to ease developing multiplatform mods. | Null          | Library          |
-| Better F3                     | 7.0.2               | 启用   | BetterF3 is a mod that replaces Minecraft's original debug HUD with a highly customizable, more human-readable HUD. You can customize colors, position, add spacings, and more. | TreyRuffy     | Utility          |
+| Better F3                     | 7.0.2               | 停用   | BetterF3 is a mod that replaces Minecraft's original debug HUD with a highly customizable, more human-readable HUD. You can customize colors, position, add spacings, and more. | TreyRuffy     | Utility          |
 | Canary                        | mc1.20.1-0.3.3      | 启用   | Canary is a general optimization mod and unofficial fork of [Lithium](https://modrinth.com/mod/lithium) mod for Minecraft Forge. It works **on both the client and server**, and can be installed on servers **without requiring clients to also have the mod**. | AbdEIAziz     | Optimization     |
 | Cloth Config API              | 11.1.118+forge      | 启用   | Cloth Config API is a config screen api.                     | shedaniel     | Library          |
 | ContinuegameIME               | 1.0.7-1.20.1-forge  | 启用   | An unofficial continuation of [IngameIME](https://github.com/Windmill-City/IngameIME-Minecraft). Use input method in full screen Minecraft.（游戏内中文输入法） | Null          | Utility          |
