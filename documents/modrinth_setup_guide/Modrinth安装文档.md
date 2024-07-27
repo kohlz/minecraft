@@ -4,7 +4,7 @@
 
 在modrinth文件路径下
 
-![](.\pic\set_up_1.png)
+![](./pic/set_up_1.png)
 
 ## 完成安装后点击左下角设置
 
