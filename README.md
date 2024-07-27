@@ -1,9 +1,7 @@
 # minecraft
  customize minecraft modpack
 
-请勿上传你的本体测试地图！
-
-Do not upload your local test map!
+如要上传测试地图，请创建自己的测试地图
 
 Minecraft Version: 1.20.1
 
