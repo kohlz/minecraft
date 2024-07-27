@@ -1,0 +1,374 @@
+[277月2024 21:01:13.752] [main/INFO] [cpw.mods.modlauncher.Launcher/MODLAUNCHER]: ModLauncher running: args [--username, koh1z, --version, 1.20.1, --gameDir, D:\mcProject\minecraft\modrinth\modrinth_minecraft\profiles\Adventure, --assetsDir, D:\mcProject\minecraft\modrinth\modrinth_minecraft\meta\assets, --assetIndex, 5, --uuid, 8d5e35c315184f799c5bfb853053e33a, --accessToken, ????????, --clientId, c4502edb-87c6-40cb-b595-64a280cf8906, --xuid, 0, --userType, msa, --versionType, release, --width, 854, --height, 480, --launchTarget, forgeclient, --fml.forgeVersion, 47.2.17, --fml.mcVersion, 1.20.1, --fml.forgeGroup, net.minecraftforge, --fml.mcpVersion, 20230612.114412]
+[277月2024 21:01:13.763] [main/INFO] [cpw.mods.modlauncher.Launcher/MODLAUNCHER]: ModLauncher 10.0.9+10.0.9+main.dcd20f30 starting: java version 17.0.12 by Azul Systems, Inc.; OS Windows 11 arch amd64 version 10.0
+[277月2024 21:01:14.051] [main/INFO] [net.minecraftforge.fml.loading.ImmediateWindowHandler/]: Loading ImmediateWindowProvider fmlearlywindow
+[277月2024 21:01:14.166] [main/INFO] [EARLYDISPLAY/]: Trying GL version 4.6
+[277月2024 21:01:14.374] [main/INFO] [EARLYDISPLAY/]: Requested GL version 4.6 got version 4.6
+[277月2024 21:01:14.449] [main/INFO] [mixin/]: SpongePowered MIXIN Subsystem Version=0.8.5 Source=union:/D:/mcProject/minecraft/modrinth/modrinth_minecraft/meta/libraries/org/spongepowered/mixin/0.8.5/mixin-0.8.5.jar%23127!/ Service=ModLauncher Env=CLIENT
+[277月2024 21:01:14.495] [pool-2-thread-1/INFO] [EARLYDISPLAY/]: GL info: NVIDIA GeForce RTX 4060 Laptop GPU/PCIe/SSE2 GL version 4.6.0 NVIDIA 555.99, NVIDIA Corporation
+[277月2024 21:01:14.790] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Mod file D:\mcProject\minecraft\modrinth\modrinth_minecraft\meta\libraries\net\minecraftforge\fmlcore\1.20.1-47.2.17\fmlcore-1.20.1-47.2.17.jar is missing mods.toml file
+[277月2024 21:01:14.793] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Mod file D:\mcProject\minecraft\modrinth\modrinth_minecraft\meta\libraries\net\minecraftforge\javafmllanguage\1.20.1-47.2.17\javafmllanguage-1.20.1-47.2.17.jar is missing mods.toml file
+[277月2024 21:01:14.795] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Mod file D:\mcProject\minecraft\modrinth\modrinth_minecraft\meta\libraries\net\minecraftforge\lowcodelanguage\1.20.1-47.2.17\lowcodelanguage-1.20.1-47.2.17.jar is missing mods.toml file
+[277月2024 21:01:14.797] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Mod file D:\mcProject\minecraft\modrinth\modrinth_minecraft\meta\libraries\net\minecraftforge\mclanguage\1.20.1-47.2.17\mclanguage-1.20.1-47.2.17.jar is missing mods.toml file
+[277月2024 21:01:14.935] [main/INFO] [net.minecraftforge.fml.loading.moddiscovery.JarInJarDependencyLocator/]: Found 7 dependencies adding them to mods collection
+[277月2024 21:01:16.411] [main/INFO] [mixin/]: Compatibility level set to JAVA_17
+[277月2024 21:01:16.451] [main/INFO] [cpw.mods.modlauncher.LaunchServiceHandler/MODLAUNCHER]: Launching target 'forgeclient' with arguments [--version, 1.20.1, --gameDir, D:\mcProject\minecraft\modrinth\modrinth_minecraft\profiles\Adventure, --assetsDir, D:\mcProject\minecraft\modrinth\modrinth_minecraft\meta\assets, --uuid, 8d5e35c315184f799c5bfb853053e33a, --username, koh1z, --assetIndex, 5, --accessToken, ????????, --clientId, c4502edb-87c6-40cb-b595-64a280cf8906, --xuid, 0, --userType, msa, --versionType, release, --width, 854, --height, 480]
+[277月2024 21:01:16.673] [main/INFO] [com.abdelaziz.saturn.common.Saturn/]: Loaded Saturn config file with 4 configurable options
+[277月2024 21:01:16.862] [main/INFO] [Canary/]: Loaded configuration file for Canary: 116 options available, 0 override(s) found
+[277月2024 21:01:16.889] [main/INFO] [Embeddium/]: Loaded configuration file for Embeddium: 63 options available, 3 override(s) found
+[277月2024 21:01:16.892] [main/INFO] [Embeddium-GraphicsAdapterProbe/]: Searching for graphics cards...
+[277月2024 21:01:17.196] [main/INFO] [Embeddium-GraphicsAdapterProbe/]: Found graphics card: GraphicsAdapterInfo[vendor=NVIDIA, name=NVIDIA GeForce RTX 4060 Laptop GPU, version=DriverVersion=32.0.15.5599]
+[277月2024 21:01:17.196] [main/INFO] [Embeddium-GraphicsAdapterProbe/]: Found graphics card: GraphicsAdapterInfo[vendor=INTEL, name=Intel(R) UHD Graphics, version=DriverVersion=31.0.101.4502]
+[277月2024 21:01:17.210] [main/WARN] [Embeddium-Workarounds/]: Embeddium has applied one or more workarounds to prevent crashes or other issues on your system: [NVIDIA_THREADED_OPTIMIZATIONS]
+[277月2024 21:01:17.210] [main/WARN] [Embeddium-Workarounds/]: This is not necessarily an issue, but it may result in certain features or optimizations being disabled. You can sometimes fix these issues by upgrading your graphics driver.
+[277月2024 21:01:18.313] [main/WARN] [Embeddium/]: Force-disabling mixin 'features.render.world.sky.WorldRendererMixin' as rule 'mixin.features.render.world.sky' (added by mods [oculus]) disables it and children
+[277月2024 21:01:18.313] [main/WARN] [Embeddium/]: Force-disabling mixin 'features.render.world.sky.ClientWorldMixin' as rule 'mixin.features.render.world.sky' (added by mods [oculus]) disables it and children
+[277月2024 21:01:18.313] [main/WARN] [Embeddium/]: Force-disabling mixin 'features.render.world.sky.BackgroundRendererMixin' as rule 'mixin.features.render.world.sky' (added by mods [oculus]) disables it and children
+[277月2024 21:01:18.315] [main/WARN] [Embeddium/]: Force-disabling mixin 'features.render.gui.font.GlyphRendererMixin' as rule 'mixin.features.render.gui.font' (added by mods [oculus]) disables it and children
+[277月2024 21:01:18.315] [main/WARN] [Embeddium/]: Force-disabling mixin 'features.render.gui.font.FontSetMixin' as rule 'mixin.features.render.gui.font' (added by mods [oculus]) disables it and children
+[277月2024 21:01:18.316] [main/WARN] [Embeddium/]: Force-disabling mixin 'features.render.entity.shadows.EntityRenderDispatcherMixin' as rule 'mixin.features.render.entity' (added by mods [oculus]) disables it and children
+[277月2024 21:01:18.316] [main/WARN] [Embeddium/]: Force-disabling mixin 'features.render.entity.remove_streams.ModelPartMixin' as rule 'mixin.features.render.entity' (added by mods [oculus]) disables it and children
+[277月2024 21:01:18.316] [main/WARN] [Embeddium/]: Force-disabling mixin 'features.render.entity.remove_streams.HierarchicalModelMixin' as rule 'mixin.features.render.entity' (added by mods [oculus]) disables it and children
+[277月2024 21:01:18.316] [main/WARN] [Embeddium/]: Force-disabling mixin 'features.render.entity.fast_render.ModelPartMixin' as rule 'mixin.features.render.entity' (added by mods [oculus]) disables it and children
+[277月2024 21:01:18.317] [main/WARN] [Embeddium/]: Force-disabling mixin 'features.render.entity.fast_render.CuboidMixin' as rule 'mixin.features.render.entity' (added by mods [oculus]) disables it and children
+[277月2024 21:01:18.317] [main/WARN] [Embeddium/]: Force-disabling mixin 'features.render.entity.cull.EntityRendererMixin' as rule 'mixin.features.render.entity' (added by mods [oculus]) disables it and children
+[277月2024 21:01:18.397] [main/INFO] [MixinExtras|Service/]: Initializing MixinExtras via com.llamalad7.mixinextras.service.MixinExtrasServiceImpl(version=0.3.5).
+[277月2024 21:01:19.004] [main/INFO] [Smooth Boot (Reloaded)/]: Smooth Boot (Reloaded) config initialized
+[277月2024 21:01:23.946] [Datafixer Bootstrap/INFO] [com.mojang.datafixers.DataFixerBuilder/]: 188 Datafixer optimizations took 150 milliseconds
+[277月2024 21:01:25.712] [Render thread/WARN] [net.minecraft.server.packs.VanillaPackResourcesBuilder/]: Assets URL 'union:/D:/mcProject/minecraft/modrinth/modrinth_minecraft/meta/libraries/net/minecraft/client/1.20.1-20230612.114412/client-1.20.1-20230612.114412-srg.jar%23186!/assets/.mcassetsroot' uses unexpected schema
+[277月2024 21:01:25.712] [Render thread/WARN] [net.minecraft.server.packs.VanillaPackResourcesBuilder/]: Assets URL 'union:/D:/mcProject/minecraft/modrinth/modrinth_minecraft/meta/libraries/net/minecraft/client/1.20.1-20230612.114412/client-1.20.1-20230612.114412-srg.jar%23186!/data/.mcassetsroot' uses unexpected schema
+[277月2024 21:01:25.759] [Render thread/INFO] [com.mojang.authlib.yggdrasil.YggdrasilAuthenticationService/]: Environment: authHost='https://authserver.mojang.com', accountsHost='https://api.mojang.com', sessionHost='https://sessionserver.mojang.com', servicesHost='https://api.minecraftservices.com', name='PROD'
+[277月2024 21:01:26.326] [Render thread/INFO] [net.minecraft.client.Minecraft/]: Setting user: koh1z
+[277月2024 21:01:26.416] [Render thread/INFO] [net.minecraft.client.Minecraft/]: Backend library: LWJGL version 3.3.1 build 7
+[277月2024 21:01:26.459] [Render thread/WARN] [Embeddium-NvidiaWorkarounds/]: Applying workaround: Prevent the NVIDIA OpenGL driver from using broken optimizations (NVIDIA_THREADED_OPTIMIZATIONS)
+[277月2024 21:01:26.462] [Render thread/ERROR] [Embeddium-MixinTaintDetector/]: Mod mixin into Embeddium internals detected. This instance is now tainted. The Embeddium team does not provide any guarantee of support for issues encountered while such mods are installed.
+[277月2024 21:01:26.462] [Render thread/WARN] [Embeddium-MixinTaintDetector/]: Mod(s) [oculus] are modifying Embeddium class me.jellysquid.mods.sodium.client.gui.SodiumGameOptions, which may cause instability.
+[277月2024 21:01:26.592] [Render thread/INFO] [Embeddium-PostlaunchChecks/]: OpenGL Vendor: NVIDIA Corporation
+[277月2024 21:01:26.592] [Render thread/INFO] [Embeddium-PostlaunchChecks/]: OpenGL Renderer: NVIDIA GeForce RTX 4060 Laptop GPU/PCIe/SSE2
+[277月2024 21:01:26.592] [Render thread/INFO] [Embeddium-PostlaunchChecks/]: OpenGL Version: 4.6.0 NVIDIA 555.99
+[277月2024 21:01:26.592] [Render thread/WARN] [Embeddium-PostlaunchChecks/]: Enabling secondary workaround for NVIDIA threaded optimizations
+[277月2024 21:01:26.734] [Render thread/INFO] [Oculus/]: Debug functionality is disabled.
+[277月2024 21:01:26.737] [Render thread/INFO] [Oculus/]: OpenGL 4.5 detected, enabling DSA.
+[277月2024 21:01:27.045] [Render thread/WARN] [Oculus/]: Found flag CUSTOM_IMAGES
+[277月2024 21:01:27.048] [Render thread/WARN] [Oculus/]: Tried to get boolean value for unknown option: 1, defaulting to true!
+[277月2024 21:01:27.048] [Render thread/WARN] [Oculus/]: Tried to get boolean value for unknown option: 1, defaulting to true!
+[277月2024 21:01:27.048] [Render thread/WARN] [Oculus/]: Tried to get boolean value for unknown option: 1, defaulting to true!
+[277月2024 21:01:27.055] [Render thread/INFO] [Oculus/]: Profile: HIGH (+0 options changed by user)
+[277月2024 21:01:27.779] [Render thread/INFO] [Oculus/]: Using shaderpack: ComplementaryUnbound_r5.2.2.zip
+[277月2024 21:01:27.956] [modloading-worker-0/INFO] [me.treyruffy.betterf3.BetterF3Forge/]: [BetterF3] Starting...
+[277月2024 21:01:27.962] [modloading-worker-0/INFO] [me.treyruffy.betterf3.BetterF3Forge/]: [BetterF3] Loading...
+[277月2024 21:01:28.041] [modloading-worker-0/INFO] [me.treyruffy.betterf3.BetterF3Forge/]: [BetterF3] All done!
+[277月2024 21:01:28.045] [modloading-worker-0/WARN] [Embeddium-MixinTaintDetector/]: Mod(s) [oculus] are modifying Embeddium class me.jellysquid.mods.sodium.client.gui.SodiumOptionsGUI, which may cause instability.
+[277月2024 21:01:28.063] [modloading-worker-0/INFO] [net.minecraftforge.common.ForgeMod/FORGEMOD]: Forge mod loading, version 47.2.17, for MC 1.20.1 with MCP 20230612.114412
+[277月2024 21:01:28.063] [modloading-worker-0/INFO] [net.minecraftforge.common.MinecraftForge/FORGE]: MinecraftForge v47.2.17 Initialized
+[277月2024 21:01:28.075] [modloading-worker-0/INFO] [dynamic_fps/]: Dynamic FPS 3.6.1 active on Forge!
+[277月2024 21:01:28.381] [modloading-worker-0/INFO] [mezz.jei.library.load.PluginCaller/]: Sending ConfigManager...
+[277月2024 21:01:28.388] [modloading-worker-0/INFO] [mezz.jei.library.load.PluginCaller/]: Sending ConfigManager took 4.358 ms
+[277月2024 21:01:28.513] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering S2C receiver with id architectury:sync_ids
+[277月2024 21:01:28.516] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering C2S receiver with id architectury:sync_ids
+[277月2024 21:01:28.710] [modloading-worker-0/INFO] [thedarkcolour.kotlinforforge.test.KotlinForForge/]: Kotlin For Forge Enabled!
+[277月2024 21:01:28.711] [modloading-worker-0/INFO] [ContingameIME/]: it is Windows OS! Loading mod...
+[277月2024 21:01:29.626] [Render thread/INFO] [Oculus/]: Hardware information:
+[277月2024 21:01:29.627] [Render thread/INFO] [Oculus/]: CPU: 20x 13th Gen Intel(R) Core(TM) i7-13650HX
+[277月2024 21:01:29.627] [Render thread/INFO] [Oculus/]: GPU: NVIDIA GeForce RTX 4060 Laptop GPU/PCIe/SSE2 (Supports OpenGL 4.6.0 NVIDIA 555.99)
+[277月2024 21:01:29.627] [Render thread/INFO] [Oculus/]: OS: Windows 11 (10.0)
+[277月2024 21:01:29.742] [Render thread/WARN] [Embeddium-MixinTaintDetector/]: Mod(s) [oculus] are modifying Embeddium class me.jellysquid.mods.sodium.client.render.vertex.VertexFormatDescriptionImpl, which may cause instability.
+[277月2024 21:01:29.752] [Render thread/WARN] [Embeddium-MixinTaintDetector/]: Mod(s) [oculus] are modifying Embeddium class me.jellysquid.mods.sodium.client.render.vertex.buffer.SodiumBufferBuilder, which may cause instability.
+[277月2024 21:01:29.782] [Render thread/WARN] [Embeddium-MixinTaintDetector/]: Mod(s) [oculus] are modifying Embeddium class me.jellysquid.mods.sodium.client.render.SodiumWorldRenderer, which may cause instability.
+[277月2024 21:01:30.140] [Render thread/INFO] [net.minecraft.server.packs.resources.ReloadableResourceManager/]: Reloading ResourceManager: vanilla, mod_resources
+[277月2024 21:01:30.351] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [saturn] Starting version check at https://github.com/AbdElAziz333/Saturn/raw/mc1.20.1/dev/updates.json
+[277月2024 21:01:30.368] [Worker-Main-7/INFO] [net.minecraft.client.gui.font.providers.UnihexProvider/]: Found unifont_all_no_pua-15.0.06.hex, loading
+[277月2024 21:01:30.651] [Worker-Main-9/WARN] [dev.architectury.registry.client.keymappings.forge.KeyMappingRegistryImpl/]: Key mapping key.ingameime.hotkey registered after event
+java.lang.RuntimeException: null
+	at dev.architectury.registry.client.keymappings.forge.KeyMappingRegistryImpl.register(KeyMappingRegistryImpl.java:47) ~[architectury-9.2.14-forge.jar%23171!/:?]
+	at dev.architectury.registry.client.keymappings.KeyMappingRegistry.register(KeyMappingRegistry.java) ~[architectury-9.2.14-forge.jar%23171!/:?]
+	at city.windmill.ingameime.forge.IngameIMEClientForge.onClientSetup(IngameIMEClientForge.kt:45) ~[ContingameIME-1.0.7-1.20.1-forge.jar%23175!/:?]
+	at net.minecraftforge.eventbus.EventBus.doCastFilter(EventBus.java:260) ~[eventbus-6.0.5.jar%23149!/:?]
+	at net.minecraftforge.eventbus.EventBus.lambda$addListener$11(EventBus.java:252) ~[eventbus-6.0.5.jar%23149!/:?]
+	at net.minecraftforge.eventbus.EventBus.post(EventBus.java:315) ~[eventbus-6.0.5.jar%23149!/:?]
+	at net.minecraftforge.eventbus.EventBus.post(EventBus.java:296) ~[eventbus-6.0.5.jar%23149!/:?]
+	at thedarkcolour.kotlinforforge.KotlinModContainer.acceptEvent(KotlinModContainer.kt:91) ~[kfflang-4.11.0.jar%23201!/:4.11.0]
+	at net.minecraftforge.fml.ModContainer.lambda$buildTransitionHandler$10(ModContainer.java:124) ~[fmlcore-1.20.1-47.2.17.jar%23187!/:?]
+	at java.util.concurrent.CompletableFuture$AsyncRun.run(Unknown Source) ~[?:?]
+	at java.util.concurrent.CompletableFuture$AsyncRun.exec(Unknown Source) ~[?:?]
+	at java.util.concurrent.ForkJoinTask.doExec(Unknown Source) ~[?:?]
+	at java.util.concurrent.ForkJoinPool$WorkQueue.topLevelExec(Unknown Source) ~[?:?]
+	at java.util.concurrent.ForkJoinPool.scan(Unknown Source) ~[?:?]
+	at java.util.concurrent.ForkJoinPool.runWorker(Unknown Source) ~[?:?]
+	at java.util.concurrent.ForkJoinWorkerThread.run(Unknown Source) ~[?:?]
+[277月2024 21:01:30.821] [Worker-Main-9/INFO] [ContingameIME/]: Current IME State:false
+[277月2024 21:01:32.146] [Worker-Main-3/INFO] [Jade/]: Start loading plugin at snownee.jade.addon.vanilla.VanillaPlugin
+[277月2024 21:01:32.210] [Worker-Main-3/INFO] [Jade/]: Start loading plugin at snownee.jade.addon.universal.UniversalPlugin
+[277月2024 21:01:32.271] [Worker-Main-3/INFO] [Jade/]: Start loading plugin at snownee.jade.addon.core.CorePlugin
+[277月2024 21:01:32.887] [Render thread/WARN] [net.minecraft.client.sounds.SoundEngine/]: Missing sound for event: minecraft:item.goat_horn.play
+[277月2024 21:01:32.887] [Render thread/WARN] [net.minecraft.client.sounds.SoundEngine/]: Missing sound for event: minecraft:entity.goat.screaming.horn_break
+[277月2024 21:01:33.014] [Render thread/INFO] [com.mojang.blaze3d.audio.Library/]: OpenAL initialized on device OpenAL Soft on 扬声器 (HyperX Virtual Surround Sound)
+[277月2024 21:01:33.014] [Render thread/INFO] [net.minecraft.client.sounds.SoundEngine/SOUNDS]: Sound engine started
+[277月2024 21:01:33.107] [Render thread/INFO] [net.minecraft.client.renderer.texture.TextureAtlas/]: Created: 1024x512x4 minecraft:textures/atlas/blocks.png-atlas
+[277月2024 21:01:33.119] [Render thread/INFO] [net.minecraft.client.renderer.texture.TextureAtlas/]: Created: 256x256x4 minecraft:textures/atlas/signs.png-atlas
+[277月2024 21:01:33.120] [Render thread/INFO] [net.minecraft.client.renderer.texture.TextureAtlas/]: Created: 512x512x4 minecraft:textures/atlas/banner_patterns.png-atlas
+[277月2024 21:01:33.121] [Render thread/INFO] [net.minecraft.client.renderer.texture.TextureAtlas/]: Created: 512x512x4 minecraft:textures/atlas/shield_patterns.png-atlas
+[277月2024 21:01:33.121] [Render thread/INFO] [net.minecraft.client.renderer.texture.TextureAtlas/]: Created: 1024x1024x4 minecraft:textures/atlas/armor_trims.png-atlas
+[277月2024 21:01:33.124] [Render thread/INFO] [net.minecraft.client.renderer.texture.TextureAtlas/]: Created: 128x64x4 minecraft:textures/atlas/decorated_pot.png-atlas
+[277月2024 21:01:33.124] [Render thread/INFO] [net.minecraft.client.renderer.texture.TextureAtlas/]: Created: 256x256x4 minecraft:textures/atlas/chest.png-atlas
+[277月2024 21:01:33.124] [Render thread/INFO] [net.minecraft.client.renderer.texture.TextureAtlas/]: Created: 512x256x4 minecraft:textures/atlas/beds.png-atlas
+[277月2024 21:01:33.125] [Render thread/INFO] [net.minecraft.client.renderer.texture.TextureAtlas/]: Created: 512x256x4 minecraft:textures/atlas/shulker_boxes.png-atlas
+[277月2024 21:01:33.346] [Render thread/WARN] [net.minecraft.client.renderer.ShaderInstance/]: Shader rendertype_entity_translucent_emissive could not find sampler named Sampler2 in the specified shader program.
+[277月2024 21:01:33.393] [Render thread/INFO] [net.minecraft.client.renderer.texture.TextureAtlas/]: Created: 256x256x0 minecraft:textures/atlas/particles.png-atlas
+[277月2024 21:01:33.395] [Render thread/INFO] [net.minecraft.client.renderer.texture.TextureAtlas/]: Created: 256x256x0 minecraft:textures/atlas/paintings.png-atlas
+[277月2024 21:01:33.395] [Render thread/INFO] [net.minecraft.client.renderer.texture.TextureAtlas/]: Created: 128x128x0 minecraft:textures/atlas/mob_effects.png-atlas
+[277月2024 21:01:33.398] [Render thread/INFO] [net.minecraft.client.renderer.texture.TextureAtlas/]: Created: 256x256x0 jei:textures/atlas/gui.png-atlas
+[277月2024 21:01:33.419] [Render thread/INFO] [Oculus/]: Creating pipeline for dimension NamespacedId{namespace='minecraft', name='overworld'}
+[277月2024 21:01:33.450] [Render thread/INFO] [Oculus/]: Starting custom uniform resolving
+[277月2024 21:01:35.992] [Render thread/WARN] [Embeddium-MixinTaintDetector/]: Mod(s) [oculus] are modifying Embeddium class me.jellysquid.mods.sodium.client.gl.device.GLRenderDevice$ImmediateDrawCommandList, which may cause instability.
+[277月2024 21:01:37.074] [Render thread/WARN] [Embeddium-MixinTaintDetector/]: Mod(s) [oculus] are modifying Embeddium class me.jellysquid.mods.sodium.client.render.vertex.serializers.VertexSerializerRegistryImpl, which may cause instability.
+[277月2024 21:01:40.717] [Forge Version Check/WARN] [net.minecraftforge.fml.VersionChecker/]: Failed to process update information
+java.io.IOException: EOF reached while reading
+	at jdk.internal.net.http.HttpClientImpl.send(Unknown Source) ~[java.net.http:?]
+	at jdk.internal.net.http.HttpClientFacade.send(Unknown Source) ~[java.net.http:?]
+	at net.minecraftforge.fml.VersionChecker$1.openUrlString(VersionChecker.java:139) ~[fmlcore-1.20.1-47.2.17.jar%23187!/:?]
+	at net.minecraftforge.fml.VersionChecker$1.process(VersionChecker.java:177) ~[fmlcore-1.20.1-47.2.17.jar%23187!/:?]
+	at java.lang.Iterable.forEach(Unknown Source) ~[?:?]
+	at net.minecraftforge.fml.VersionChecker$1.run(VersionChecker.java:114) ~[fmlcore-1.20.1-47.2.17.jar%23187!/:?]
+Caused by: java.io.EOFException: EOF reached while reading
+	at jdk.internal.net.http.Http2Connection$Http2TubeSubscriber.onComplete(Unknown Source) ~[java.net.http:?]
+	at jdk.internal.net.http.common.SSLTube$DelegateWrapper.onComplete(Unknown Source) ~[java.net.http:?]
+	at jdk.internal.net.http.common.SSLTube$SSLSubscriberWrapper.complete(Unknown Source) ~[java.net.http:?]
+	at jdk.internal.net.http.common.SSLTube$SSLSubscriberWrapper.onComplete(Unknown Source) ~[java.net.http:?]
+	at jdk.internal.net.http.common.SubscriberWrapper.checkCompletion(Unknown Source) ~[java.net.http:?]
+	at jdk.internal.net.http.common.SubscriberWrapper$DownstreamPusher.run1(Unknown Source) ~[java.net.http:?]
+	at jdk.internal.net.http.common.SubscriberWrapper$DownstreamPusher.run(Unknown Source) ~[java.net.http:?]
+	at jdk.internal.net.http.common.SequentialScheduler$LockingRestartableTask.run(Unknown Source) ~[java.net.http:?]
+	at jdk.internal.net.http.common.SequentialScheduler$CompleteRestartableTask.run(Unknown Source) ~[java.net.http:?]
+	at jdk.internal.net.http.common.SequentialScheduler$SchedulableTask.run(Unknown Source) ~[java.net.http:?]
+	at jdk.internal.net.http.common.SequentialScheduler.runOrSchedule(Unknown Source) ~[java.net.http:?]
+	at jdk.internal.net.http.common.SequentialScheduler.runOrSchedule(Unknown Source) ~[java.net.http:?]
+	at jdk.internal.net.http.common.SubscriberWrapper.outgoing(Unknown Source) ~[java.net.http:?]
+	at jdk.internal.net.http.common.SSLFlowDelegate$Reader.processData(Unknown Source) ~[java.net.http:?]
+	at jdk.internal.net.http.common.SSLFlowDelegate$Reader$ReaderDownstreamPusher.run(Unknown Source) ~[java.net.http:?]
+	at jdk.internal.net.http.common.SequentialScheduler$LockingRestartableTask.run(Unknown Source) ~[java.net.http:?]
+	at jdk.internal.net.http.common.SequentialScheduler$CompleteRestartableTask.run(Unknown Source) ~[java.net.http:?]
+	at jdk.internal.net.http.common.SequentialScheduler$SchedulableTask.run(Unknown Source) ~[java.net.http:?]
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(Unknown Source) ~[?:?]
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(Unknown Source) ~[?:?]
+	at java.lang.Thread.run(Unknown Source) ~[?:?]
+[277月2024 21:01:40.718] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [canary] Starting version check at https://github.com/AbdElAziz333/Canary/raw/mc1.19.2/dev/updates.json
+[277月2024 21:01:41.150] [Render thread/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Loaded 7 recipes
+[277月2024 21:01:41.357] [Render thread/INFO] [net.minecraft.advancements.AdvancementList/]: Loaded 1271 advancements
+[277月2024 21:01:41.579] [Render thread/WARN] [mixin/]: Injection warning: LVT in net/minecraft/client/gui/screens/inventory/AbstractSignEditScreen::m_280079_(Lnet/minecraft/client/gui/GuiGraphics;)V has incompatible changes at opcode 205 in callback ingameime.forge.mixins.json:MixinEditSignScreen->@Inject::onCaret_Sign(Lnet/minecraft/client/gui/GuiGraphics;IIFLorg/spongepowered/asm/mixin/injection/callback/CallbackInfo;FLnet/minecraft/world/level/block/state/BlockState;ZZFLnet/minecraft/client/renderer/MultiBufferSource$BufferSource;FIIIILorg/joml/Matrix4f;ILjava/lang/String;FII)V.
+ Expected: [I, F, Lorg/spongepowered/asm/mixin/injection/callback/CallbackInfo;, F, Lnet/minecraft/world/level/block/state/BlockState;, Z, Z, F, Lnet/minecraft/client/renderer/MultiBufferSource$BufferSource;, F, I, I, I, I, Lorg/joml/Matrix4f;, I, Ljava/lang/String;, F, I, I]
+    Found: [Lorg/joml/Vector3f;, I, Z, I, I, I, I, I, Ljava/lang/String;, I, I, I]
+Available: [Lorg/joml/Vector3f;, I, Z, I, I, I, I, I, Ljava/lang/String;, I, I, I]
+[277月2024 21:01:41.579] [Render thread/WARN] [mixin/]: Injection warning: LVT in net/minecraft/client/gui/screens/inventory/AbstractSignEditScreen::m_280079_(Lnet/minecraft/client/gui/GuiGraphics;)V has incompatible changes at opcode 297 in callback ingameime.forge.mixins.json:MixinEditSignScreen->@Inject::onCaret_Sign(Lnet/minecraft/client/gui/GuiGraphics;IIFLorg/spongepowered/asm/mixin/injection/callback/CallbackInfo;FLnet/minecraft/world/level/block/state/BlockState;ZZFLnet/minecraft/client/renderer/MultiBufferSource$BufferSource;FIIIILorg/joml/Matrix4f;ILjava/lang/String;FII)V.
+ Expected: [I, F, Lorg/spongepowered/asm/mixin/injection/callback/CallbackInfo;, F, Lnet/minecraft/world/level/block/state/BlockState;, Z, Z, F, Lnet/minecraft/client/renderer/MultiBufferSource$BufferSource;, F, I, I, I, I, Lorg/joml/Matrix4f;, I, Ljava/lang/String;, F, I, I]
+    Found: [Lorg/joml/Vector3f;, I, Z, I, I, I, I, I, Ljava/lang/String;, I, I, I]
+Available: [Lorg/joml/Vector3f;, I, Z, I, I, I, I, I, Ljava/lang/String;, I, I, I]
+[277月2024 21:01:41.589] [Render thread/WARN] [mixin/]: Injection warning: LVT in net/minecraft/client/gui/screens/inventory/BookEditScreen::m_88315_(Lnet/minecraft/client/gui/GuiGraphics;IIF)V has incompatible changes at opcode 98 in callback ingameime.forge.mixins.json:MixinBookEditScreen->@Inject::onCaret_Book(Lnet/minecraft/client/gui/GuiGraphics;IIFLorg/spongepowered/asm/mixin/injection/callback/CallbackInfo;ILnet/minecraft/util/FormattedCharSequence;II)V.
+ Expected: [I, Lnet/minecraft/util/FormattedCharSequence;, I, I]
+    Found: [I, I, Z, Lnet/minecraft/util/FormattedCharSequence;]
+Available: [I, I, Z, Lnet/minecraft/util/FormattedCharSequence;, I]
+[277月2024 21:01:41.589] [Render thread/WARN] [mixin/]: Injection warning: LVT in net/minecraft/client/gui/screens/inventory/BookEditScreen::m_88315_(Lnet/minecraft/client/gui/GuiGraphics;IIF)V has incompatible changes at opcode 154 in callback ingameime.forge.mixins.json:MixinBookEditScreen->@Inject::onCaret_Book(Lnet/minecraft/client/gui/GuiGraphics;IIFLorg/spongepowered/asm/mixin/injection/callback/CallbackInfo;ILnet/minecraft/util/FormattedCharSequence;II)V.
+ Expected: [I, Lnet/minecraft/util/FormattedCharSequence;, I, I]
+    Found: [I, I, Z, Lnet/minecraft/util/FormattedCharSequence;]
+Available: [I, I, Z, Lnet/minecraft/util/FormattedCharSequence;, I, I, I]
+[277月2024 21:01:41.589] [Render thread/WARN] [mixin/]: Injection warning: LVT in net/minecraft/client/gui/screens/inventory/BookEditScreen::m_88315_(Lnet/minecraft/client/gui/GuiGraphics;IIF)V has incompatible changes at opcode 198 in callback ingameime.forge.mixins.json:MixinBookEditScreen->@Inject::onCaret_Book(Lnet/minecraft/client/gui/GuiGraphics;IIFLorg/spongepowered/asm/mixin/injection/callback/CallbackInfo;ILnet/minecraft/util/FormattedCharSequence;II)V.
+ Expected: [I, Lnet/minecraft/util/FormattedCharSequence;, I, I]
+    Found: [I, I, I, Lnet/minecraft/util/FormattedCharSequence;]
+Available: [I, I, I, Lnet/minecraft/util/FormattedCharSequence;, I, I, I]
+[277月2024 21:01:41.590] [Render thread/WARN] [mixin/]: Injection warning: LVT in net/minecraft/client/gui/screens/inventory/BookEditScreen::m_88315_(Lnet/minecraft/client/gui/GuiGraphics;IIF)V has incompatible changes at opcode 239 in callback ingameime.forge.mixins.json:MixinBookEditScreen->@Inject::onCaret_Book(Lnet/minecraft/client/gui/GuiGraphics;IIFLorg/spongepowered/asm/mixin/injection/callback/CallbackInfo;ILnet/minecraft/util/FormattedCharSequence;II)V.
+ Expected: [I, Lnet/minecraft/util/FormattedCharSequence;, I, I]
+    Found: [I, I, I, Lnet/minecraft/client/gui/screens/inventory/BookEditScreen$DisplayCache;]
+Available: [I, I, I, Lnet/minecraft/client/gui/screens/inventory/BookEditScreen$DisplayCache;, [Lnet/minecraft/client/gui/screens/inventory/BookEditScreen$LineInfo;, I, I, Lnet/minecraft/client/gui/screens/inventory/BookEditScreen$LineInfo;]
+[277月2024 21:01:41.771] [Server thread/INFO] [net.minecraft.client.server.IntegratedServer/]: Starting integrated minecraft server version 1.20.1
+[277月2024 21:01:41.771] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Generating keypair
+[277月2024 21:01:42.051] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Preparing start region for dimension minecraft:overworld
+[277月2024 21:01:43.562] [Render thread/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: 准备生成区域中：0%
+[277月2024 21:01:43.562] [Render thread/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: 准备生成区域中：0%
+[277月2024 21:01:43.562] [Render thread/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: 准备生成区域中：0%
+[277月2024 21:01:43.563] [Render thread/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: 准备生成区域中：0%
+[277月2024 21:01:44.066] [Render thread/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: 准备生成区域中：83%
+[277月2024 21:01:44.131] [Server thread/INFO] [net.minecraftforge.server.permission.PermissionAPI/]: Successfully initialized permission handler forge:default_handler
+[277月2024 21:01:44.137] [Render thread/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Time elapsed: 2081 ms
+[277月2024 21:01:44.232] [Server thread/INFO] [net.minecraft.client.server.IntegratedServer/]: Changing view distance to 8, from 10
+[277月2024 21:01:44.233] [Server thread/INFO] [net.minecraft.client.server.IntegratedServer/]: Changing simulation distance to 8, from 0
+[277月2024 21:01:44.337] [Render thread/WARN] [io.netty.util.internal.SystemPropertyUtil/]: Unable to parse the boolean system property 'java.net.preferIPv6Addresses':system - using the default value: false
+[277月2024 21:01:44.840] [Netty Local Client IO #0/INFO] [net.minecraftforge.network.NetworkHooks/]: Connected to a modded server.
+[277月2024 21:01:44.890] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: koh1z[local:E:db3ec05a] logged in with entity id 13 at (14.990149180725524, -60.0, 84.18144474198749)
+[277月2024 21:01:44.957] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: koh1z加入了游戏
+[277月2024 21:01:44.960] [Render thread/INFO] [Oculus/]: Reloading pipeline on dimension change: NamespacedId{namespace='minecraft', name='overworld'} => NamespacedId{namespace='minecraft', name='overworld'}
+[277月2024 21:01:44.960] [Render thread/INFO] [Oculus/]: Destroying pipeline NamespacedId{namespace='minecraft', name='overworld'}
+[277月2024 21:01:44.980] [Render thread/INFO] [Oculus/]: Creating pipeline for dimension NamespacedId{namespace='minecraft', name='overworld'}
+[277月2024 21:01:44.982] [Render thread/INFO] [Oculus/]: Starting custom uniform resolving
+[277月2024 21:01:45.029] [Server thread/INFO] [Jade/]: Syncing config to koh1z (8d5e35c3-1518-4f79-9c5b-fb853053e33a)
+[277月2024 21:01:46.175] [Render thread/WARN] [Embeddium-MixinTaintDetector/]: Mod(s) [oculus] are modifying Embeddium class me.jellysquid.mods.sodium.client.render.chunk.RenderSectionManager, which may cause instability.
+[277月2024 21:01:46.186] [Render thread/WARN] [Embeddium-MixinTaintDetector/]: Mod(s) [oculus] are modifying Embeddium class me.jellysquid.mods.sodium.client.render.chunk.compile.tasks.ChunkBuilderMeshingTask, which may cause instability.
+[277月2024 21:01:46.196] [Render thread/WARN] [Embeddium-MixinTaintDetector/]: Mod(s) [oculus] are modifying Embeddium class me.jellysquid.mods.sodium.client.render.chunk.vertex.format.ChunkMeshFormats, which may cause instability.
+[277月2024 21:01:46.199] [Render thread/WARN] [Embeddium-MixinTaintDetector/]: Mod(s) [oculus] are modifying Embeddium class me.jellysquid.mods.sodium.client.render.chunk.vertex.format.ChunkMeshAttribute, which may cause instability.
+[277月2024 21:01:46.203] [Render thread/WARN] [Embeddium-MixinTaintDetector/]: Mod(s) [oculus] are modifying Embeddium class me.jellysquid.mods.sodium.client.gl.attribute.GlVertexFormat$Builder, which may cause instability.
+[277月2024 21:01:46.209] [Render thread/WARN] [Embeddium-MixinTaintDetector/]: Mod(s) [oculus] are modifying Embeddium class me.jellysquid.mods.sodium.client.gl.attribute.GlVertexAttributeFormat, which may cause instability.
+[277月2024 21:01:46.215] [Render thread/WARN] [Embeddium-MixinTaintDetector/]: Mod(s) [oculus] are modifying Embeddium class me.jellysquid.mods.sodium.client.render.chunk.DefaultChunkRenderer, which may cause instability.
+[277月2024 21:01:46.218] [Render thread/WARN] [Embeddium-MixinTaintDetector/]: Mod(s) [oculus] are modifying Embeddium class me.jellysquid.mods.sodium.client.render.chunk.ShaderChunkRenderer, which may cause instability.
+[277月2024 21:01:46.254] [Render thread/WARN] [Embeddium-MixinTaintDetector/]: Mod(s) [oculus] are modifying Embeddium class me.jellysquid.mods.sodium.client.render.chunk.compile.ChunkBuildBuffers, which may cause instability.
+[277月2024 21:01:46.258] [Render thread/WARN] [Embeddium-MixinTaintDetector/]: Mod(s) [oculus] are modifying Embeddium class me.jellysquid.mods.sodium.client.render.chunk.vertex.builder.ChunkMeshBufferBuilder, which may cause instability.
+[277月2024 21:01:46.265] [Render thread/WARN] [Embeddium-MixinTaintDetector/]: Mod(s) [oculus] are modifying Embeddium class me.jellysquid.mods.sodium.client.render.chunk.compile.buffers.BakedChunkModelBuilder, which may cause instability.
+[277月2024 21:01:46.310] [Render thread/WARN] [mixin/]: Error loading class: net/fabricmc/fabric/api/blockview/v2/FabricBlockView (java.lang.ClassNotFoundException: net.fabricmc.fabric.api.blockview.v2.FabricBlockView)
+[277月2024 21:01:46.317] [Render thread/WARN] [mixin/]: Error loading class: net/fabricmc/fabric/api/rendering/data/v1/RenderAttachedBlockView (java.lang.ClassNotFoundException: net.fabricmc.fabric.api.rendering.data.v1.RenderAttachedBlockView)
+[277月2024 21:01:46.356] [Render thread/WARN] [Embeddium-MixinTaintDetector/]: Mod(s) [oculus] are modifying Embeddium class me.jellysquid.mods.sodium.client.model.light.smooth.SmoothLightPipeline, which may cause instability.
+[277月2024 21:01:46.362] [Render thread/WARN] [Embeddium-MixinTaintDetector/]: Mod(s) [oculus] are modifying Embeddium class me.jellysquid.mods.sodium.client.model.light.flat.FlatLightPipeline, which may cause instability.
+[277月2024 21:01:46.413] [Render thread/INFO] [ChunkBuilder/]: Started 10 worker threads
+[277月2024 21:01:46.456] [Render thread/INFO] [mezz.jei.forge.startup.StartEventObserver/]: JEI StartEventObserver received class net.minecraftforge.client.event.ClientPlayerNetworkEvent$LoggingIn
+[277月2024 21:01:46.457] [Render thread/INFO] [mezz.jei.forge.startup.StartEventObserver/]: JEI StartEventObserver transitioning state from DISABLED to ENABLED
+[277月2024 21:01:46.582] [Render thread/INFO] [mezz.jei.forge.startup.StartEventObserver/]: JEI StartEventObserver received class net.minecraftforge.client.event.RecipesUpdatedEvent
+[277月2024 21:01:46.605] [Render thread/INFO] [mezz.jei.forge.startup.StartEventObserver/]: JEI StartEventObserver received class net.minecraftforge.event.TagsUpdatedEvent
+[277月2024 21:01:46.605] [Render thread/INFO] [mezz.jei.forge.startup.StartEventObserver/]: JEI StartEventObserver transitioning state from ENABLED to JEI_STARTED
+[277月2024 21:01:46.607] [Render thread/INFO] [mezz.jei.core.util.LoggedTimer/]: Starting JEI...
+[277月2024 21:01:46.621] [Render thread/INFO] [mezz.jei.library.load.PluginCaller/]: Registering item subtypes...
+[277月2024 21:01:46.628] [Render thread/INFO] [mezz.jei.library.load.PluginCaller/]: Registering item subtypes took 6.354 ms
+[277月2024 21:01:46.629] [Render thread/INFO] [mezz.jei.library.load.PluginCaller/]: Registering fluid subtypes...
+[277月2024 21:01:46.630] [Render thread/INFO] [mezz.jei.library.load.PluginCaller/]: Registering fluid subtypes took 1.276 ms
+[277月2024 21:01:46.632] [Render thread/INFO] [mezz.jei.library.load.PluginCaller/]: Registering ingredients...
+[277月2024 21:01:46.678] [Render thread/WARN] [mezz.jei.library.plugins.vanilla.ingredients.ItemStackListFactory/]: Item Group has no display items and no search tab display items. Items from this group will be missing from the JEI ingredient list. 管理员用品
+[277月2024 21:01:46.698] [Render thread/INFO] [mezz.jei.library.load.PluginCallerTimerRunnable/]: Registering ingredients: jei:minecraft took 66.28 milliseconds
+[277月2024 21:01:46.698] [Render thread/INFO] [mezz.jei.library.load.PluginCaller/]: Registering ingredients took 66.77 ms
+[277月2024 21:01:46.706] [Render thread/INFO] [mezz.jei.library.load.PluginCaller/]: Registering categories...
+[277月2024 21:01:46.718] [Render thread/INFO] [mezz.jei.library.load.PluginCallerTimerRunnable/]: Registering categories: jei:minecraft took 11.45 milliseconds
+[277月2024 21:01:46.719] [Render thread/INFO] [mezz.jei.library.load.PluginCaller/]: Registering categories took 12.64 ms
+[277月2024 21:01:46.720] [Render thread/INFO] [mezz.jei.library.load.PluginCaller/]: Registering vanilla category extensions...
+[277月2024 21:01:46.721] [Render thread/INFO] [mezz.jei.library.load.PluginCaller/]: Registering vanilla category extensions took 1.386 ms
+[277月2024 21:01:46.722] [Render thread/INFO] [mezz.jei.library.load.PluginCaller/]: Registering recipe catalysts...
+[277月2024 21:01:46.723] [Render thread/INFO] [mezz.jei.library.load.PluginCaller/]: Registering recipe catalysts took 409.3 μs
+[277月2024 21:01:46.723] [Render thread/INFO] [mezz.jei.library.load.PluginCaller/]: Registering advanced plugins...
+[277月2024 21:01:46.723] [Render thread/INFO] [mezz.jei.library.load.PluginCaller/]: Registering advanced plugins took 163.9 μs
+[277月2024 21:01:46.723] [Render thread/INFO] [mezz.jei.core.util.LoggedTimer/]: Building recipe registry...
+[277月2024 21:01:46.729] [Render thread/INFO] [mezz.jei.core.util.LoggedTimer/]: Building recipe registry took 5.545 ms
+[277月2024 21:01:46.731] [Render thread/INFO] [mezz.jei.library.load.PluginCaller/]: Registering recipes...
+[277月2024 21:01:46.855] [Render thread/INFO] [mezz.jei.library.load.PluginCallerTimerRunnable/]: Registering recipes: jei:minecraft took 124.1 milliseconds
+[277月2024 21:01:46.855] [Render thread/INFO] [mezz.jei.library.load.PluginCaller/]: Registering recipes took 124.6 ms
+[277月2024 21:01:46.864] [Render thread/INFO] [mezz.jei.library.load.PluginCaller/]: Registering recipes transfer handlers...
+[277月2024 21:01:46.870] [Render thread/INFO] [mezz.jei.library.load.PluginCaller/]: Registering recipes transfer handlers took 5.442 ms
+[277月2024 21:01:46.881] [Render thread/INFO] [mezz.jei.core.util.LoggedTimer/]: Building runtime...
+[277月2024 21:01:46.885] [Render thread/INFO] [mezz.jei.library.load.PluginCaller/]: Registering gui handlers...
+[277月2024 21:01:46.903] [Render thread/INFO] [mezz.jei.library.load.PluginCallerTimerRunnable/]: Registering gui handlers: jei:minecraft took 18.70 milliseconds
+[277月2024 21:01:46.914] [Render thread/INFO] [mezz.jei.library.load.PluginCaller/]: Registering gui handlers took 29.08 ms
+[277月2024 21:01:46.921] [Render thread/INFO] [mezz.jei.library.load.PluginCaller/]: Registering Runtime...
+[277月2024 21:01:46.924] [Render thread/INFO] [mezz.jei.gui.startup.JeiGuiStarter/]: Starting JEI GUI
+[277月2024 21:01:46.925] [Render thread/INFO] [mezz.jei.core.util.LoggedTimer/]: Building ingredient list...
+[277月2024 21:01:46.931] [Render thread/INFO] [mezz.jei.core.util.LoggedTimer/]: Building ingredient list took 6.121 ms
+[277月2024 21:01:46.931] [Render thread/INFO] [mezz.jei.core.util.LoggedTimer/]: Building ingredient filter...
+[277月2024 21:01:46.969] [Render thread/INFO] [mezz.jei.gui.ingredients.IngredientFilter/]: Adding 1558 ingredients
+[277月2024 21:01:47.105] [Render thread/INFO] [mezz.jei.gui.ingredients.IngredientFilter/]: Added 1558/1558 ingredients
+[277月2024 21:01:47.106] [Render thread/INFO] [mezz.jei.core.util.LoggedTimer/]: Building ingredient filter took 174.8 ms
+[277月2024 21:01:47.272] [Render thread/INFO] [mezz.jei.library.load.PluginCallerTimerRunnable/]: Registering Runtime: jei:forge_gui took 350.1 milliseconds
+[277月2024 21:01:47.272] [Render thread/INFO] [mezz.jei.library.load.PluginCaller/]: Registering Runtime took 350.8 ms
+[277月2024 21:01:47.273] [Render thread/INFO] [mezz.jei.core.util.LoggedTimer/]: Building runtime took 393.1 ms
+[277月2024 21:01:47.275] [Render thread/INFO] [mezz.jei.library.load.PluginCaller/]: Sending Runtime...
+[277月2024 21:01:47.275] [Render thread/INFO] [mezz.jei.library.load.PluginCaller/]: Sending Runtime took 335.2 μs
+[277月2024 21:01:47.275] [Render thread/INFO] [mezz.jei.core.util.LoggedTimer/]: Starting JEI took 668.0 ms
+[277月2024 21:01:47.323] [Render thread/INFO] [Jade/]: Received config from the server: 
+[277月2024 21:01:47.325] [Render thread/INFO] [net.minecraft.advancements.AdvancementList/]: Loaded 12 advancements
+[277月2024 21:01:47.519] [Render thread/WARN] [Embeddium-MixinTaintDetector/]: Mod(s) [oculus] are modifying Embeddium class me.jellysquid.mods.sodium.client.gl.shader.ShaderType, which may cause instability.
+[277月2024 21:01:47.525] [Render thread/WARN] [Embeddium-MixinTaintDetector/]: Mod(s) [oculus] are modifying Embeddium class me.jellysquid.mods.sodium.client.gl.shader.GlProgram, which may cause instability.
+[277月2024 21:01:47.701] [Render thread/WARN] [Embeddium-MixinTaintDetector/]: Mod(s) [oculus] are modifying Embeddium class me.jellysquid.mods.sodium.client.render.immediate.CloudRenderer, which may cause instability.
+[277月2024 21:01:47.722] [Render thread/WARN] [net.minecraft.client.renderer.ShaderInstance/]: Shader clouds could not find uniform named ModelViewMat in the specified shader program.
+[277月2024 21:01:47.722] [Render thread/WARN] [net.minecraft.client.renderer.ShaderInstance/]: Shader clouds could not find uniform named ProjMat in the specified shader program.
+[277月2024 21:01:47.722] [Render thread/WARN] [net.minecraft.client.renderer.ShaderInstance/]: Shader clouds could not find uniform named ColorModulator in the specified shader program.
+[277月2024 21:01:47.722] [Render thread/WARN] [net.minecraft.client.renderer.ShaderInstance/]: Shader clouds could not find uniform named FogStart in the specified shader program.
+[277月2024 21:01:47.722] [Render thread/WARN] [net.minecraft.client.renderer.ShaderInstance/]: Shader clouds could not find uniform named FogEnd in the specified shader program.
+[277月2024 21:01:47.722] [Render thread/WARN] [net.minecraft.client.renderer.ShaderInstance/]: Shader clouds could not find uniform named FogColor in the specified shader program.
+[277月2024 21:01:47.798] [Render thread/WARN] [Embeddium-MixinTaintDetector/]: Mod(s) [oculus] are modifying Embeddium class me.jellysquid.mods.sodium.client.render.immediate.model.BakedModelEncoder, which may cause instability.
+[277月2024 21:01:47.879] [Render thread/WARN] [Embeddium-MixinTaintDetector/]: Mod(s) [oculus] are modifying Embeddium class me.jellysquid.mods.sodium.client.render.chunk.region.RenderRegion$DeviceResources, which may cause instability.
+[277月2024 21:01:55.719] [Forge Version Check/WARN] [net.minecraftforge.fml.VersionChecker/]: Failed to process update information
+java.net.http.HttpConnectTimeoutException: HTTP connect timed out
+	at jdk.internal.net.http.HttpClientImpl.send(Unknown Source) ~[java.net.http:?]
+	at jdk.internal.net.http.HttpClientFacade.send(Unknown Source) ~[java.net.http:?]
+	at net.minecraftforge.fml.VersionChecker$1.openUrlString(VersionChecker.java:139) ~[fmlcore-1.20.1-47.2.17.jar%23187!/:?]
+	at net.minecraftforge.fml.VersionChecker$1.process(VersionChecker.java:177) ~[fmlcore-1.20.1-47.2.17.jar%23187!/:?]
+	at java.lang.Iterable.forEach(Unknown Source) ~[?:?]
+	at net.minecraftforge.fml.VersionChecker$1.run(VersionChecker.java:114) ~[fmlcore-1.20.1-47.2.17.jar%23187!/:?]
+Caused by: java.net.http.HttpConnectTimeoutException: HTTP connect timed out
+	at jdk.internal.net.http.ResponseTimerEvent.handle(Unknown Source) ~[java.net.http:?]
+	at jdk.internal.net.http.HttpClientImpl.purgeTimeoutsAndReturnNextDeadline(Unknown Source) ~[java.net.http:?]
+	at jdk.internal.net.http.HttpClientImpl$SelectorManager.run(Unknown Source) ~[java.net.http:?]
+Caused by: java.net.ConnectException: HTTP connect timed out
+	at jdk.internal.net.http.ResponseTimerEvent.handle(Unknown Source) ~[java.net.http:?]
+	at jdk.internal.net.http.HttpClientImpl.purgeTimeoutsAndReturnNextDeadline(Unknown Source) ~[java.net.http:?]
+	at jdk.internal.net.http.HttpClientImpl$SelectorManager.run(Unknown Source) ~[java.net.http:?]
+[277月2024 21:01:55.721] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [dynamic_fps] Starting version check at https://api.lostluma.net/updates/dynamic-fps?platform=forge
+[277月2024 21:01:56.671] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [dynamic_fps] Found status: UP_TO_DATE Current: 3.6.1 Target: null
+[277月2024 21:01:56.671] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [smoothboot] Starting version check at https://github.com/AbdElAziz333/SmoothBoot-Reloaded/raw/mc1.20.1/dev/updates.json
+[277月2024 21:02:11.671] [Forge Version Check/WARN] [net.minecraftforge.fml.VersionChecker/]: Failed to process update information
+java.net.http.HttpConnectTimeoutException: HTTP connect timed out
+	at jdk.internal.net.http.HttpClientImpl.send(Unknown Source) ~[java.net.http:?]
+	at jdk.internal.net.http.HttpClientFacade.send(Unknown Source) ~[java.net.http:?]
+	at net.minecraftforge.fml.VersionChecker$1.openUrlString(VersionChecker.java:139) ~[fmlcore-1.20.1-47.2.17.jar%23187!/:?]
+	at net.minecraftforge.fml.VersionChecker$1.process(VersionChecker.java:177) ~[fmlcore-1.20.1-47.2.17.jar%23187!/:?]
+	at java.lang.Iterable.forEach(Unknown Source) ~[?:?]
+	at net.minecraftforge.fml.VersionChecker$1.run(VersionChecker.java:114) ~[fmlcore-1.20.1-47.2.17.jar%23187!/:?]
+Caused by: java.net.http.HttpConnectTimeoutException: HTTP connect timed out
+	at jdk.internal.net.http.ResponseTimerEvent.handle(Unknown Source) ~[java.net.http:?]
+	at jdk.internal.net.http.HttpClientImpl.purgeTimeoutsAndReturnNextDeadline(Unknown Source) ~[java.net.http:?]
+	at jdk.internal.net.http.HttpClientImpl$SelectorManager.run(Unknown Source) ~[java.net.http:?]
+Caused by: java.net.ConnectException: HTTP connect timed out
+	at jdk.internal.net.http.ResponseTimerEvent.handle(Unknown Source) ~[java.net.http:?]
+	at jdk.internal.net.http.HttpClientImpl.purgeTimeoutsAndReturnNextDeadline(Unknown Source) ~[java.net.http:?]
+	at jdk.internal.net.http.HttpClientImpl$SelectorManager.run(Unknown Source) ~[java.net.http:?]
+[277月2024 21:02:11.672] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [betterf3] Starting version check at https://api.modrinth.com/updates/betterf3/forge_updates.json
+[277月2024 21:02:18.483] [Server thread/INFO] [net.minecraft.client.server.IntegratedServer/]: Saving and pausing game...
+[277月2024 21:02:18.595] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[测试]'/minecraft:overworld
+[277月2024 21:02:18.600] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[测试]'/minecraft:the_end
+[277月2024 21:02:18.603] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[测试]'/minecraft:the_nether
+[277月2024 21:02:19.934] [Render thread/WARN] [Embeddium-MixinTaintDetector/]: Mod(s) [oculus] are modifying Embeddium class me.jellysquid.mods.sodium.client.gui.SodiumGameOptionPages, which may cause instability.
+[277月2024 21:02:19.940] [Render thread/WARN] [Embeddium-MixinTaintDetector/]: Mod(s) [oculus] are modifying Embeddium class me.jellysquid.mods.sodium.client.gui.options.OptionImpl, which may cause instability.
+[277月2024 21:02:19.953] [Render thread/WARN] [Embeddium/]: Id must be specified in OptionPage '光影包…'
+[277月2024 21:02:22.618] [Render thread/INFO] [Oculus/]: Destroying pipeline NamespacedId{namespace='minecraft', name='overworld'}
+[277月2024 21:02:22.627] [Render thread/INFO] [Oculus/]: Shaders are disabled because enableShaders is set to false in iris.properties
+[277月2024 21:02:22.627] [Render thread/INFO] [Oculus/]: Shaders are disabled
+[277月2024 21:02:22.627] [Render thread/INFO] [Oculus/]: Creating pipeline for dimension NamespacedId{namespace='minecraft', name='overworld'}
+[277月2024 21:02:22.628] [Render thread/INFO] [ChunkBuilder/]: Stopping worker threads
+[277月2024 21:02:22.638] [Render thread/INFO] [ChunkBuilder/]: Started 10 worker threads
+[277月2024 21:02:26.673] [Forge Version Check/WARN] [net.minecraftforge.fml.VersionChecker/]: Failed to process update information
+java.net.http.HttpConnectTimeoutException: HTTP connect timed out
+	at jdk.internal.net.http.HttpClientImpl.send(Unknown Source) ~[java.net.http:?]
+	at jdk.internal.net.http.HttpClientFacade.send(Unknown Source) ~[java.net.http:?]
+	at net.minecraftforge.fml.VersionChecker$1.openUrlString(VersionChecker.java:139) ~[fmlcore-1.20.1-47.2.17.jar%23187!/:?]
+	at net.minecraftforge.fml.VersionChecker$1.process(VersionChecker.java:177) ~[fmlcore-1.20.1-47.2.17.jar%23187!/:?]
+	at java.lang.Iterable.forEach(Unknown Source) ~[?:?]
+	at net.minecraftforge.fml.VersionChecker$1.run(VersionChecker.java:114) ~[fmlcore-1.20.1-47.2.17.jar%23187!/:?]
+Caused by: java.net.http.HttpConnectTimeoutException: HTTP connect timed out
+	at jdk.internal.net.http.ResponseTimerEvent.handle(Unknown Source) ~[java.net.http:?]
+	at jdk.internal.net.http.HttpClientImpl.purgeTimeoutsAndReturnNextDeadline(Unknown Source) ~[java.net.http:?]
+	at jdk.internal.net.http.HttpClientImpl$SelectorManager.run(Unknown Source) ~[java.net.http:?]
+Caused by: java.net.ConnectException: HTTP connect timed out
+	at jdk.internal.net.http.ResponseTimerEvent.handle(Unknown Source) ~[java.net.http:?]
+	at jdk.internal.net.http.HttpClientImpl.purgeTimeoutsAndReturnNextDeadline(Unknown Source) ~[java.net.http:?]
+	at jdk.internal.net.http.HttpClientImpl$SelectorManager.run(Unknown Source) ~[java.net.http:?]
+[277月2024 21:02:26.673] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [forge] Starting version check at https://files.minecraftforge.net/net/minecraftforge/forge/promotions_slim.json
+[277月2024 21:02:27.637] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [forge] Found status: OUTDATED Current: 47.2.17 Target: 47.3.0
+[277月2024 21:02:39.734] [Server thread/INFO] [net.minecraft.client.server.IntegratedServer/]: Saving and pausing game...
+[277月2024 21:02:39.845] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[测试]'/minecraft:overworld
+[277月2024 21:02:39.849] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[测试]'/minecraft:the_end
+[277月2024 21:02:39.850] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[测试]'/minecraft:the_nether
+[277月2024 21:02:54.833] [Server thread/INFO] [net.minecraft.client.server.IntegratedServer/]: Saving and pausing game...
+[277月2024 21:02:54.943] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[测试]'/minecraft:overworld
+[277月2024 21:02:54.947] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[测试]'/minecraft:the_end
+[277月2024 21:02:54.948] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[测试]'/minecraft:the_nether
+[277月2024 21:02:55.225] [Render thread/INFO] [mezz.jei.forge.startup.StartEventObserver/]: JEI StartEventObserver received class net.minecraftforge.client.event.ClientPlayerNetworkEvent$LoggingOut
+[277月2024 21:02:55.225] [Render thread/INFO] [mezz.jei.forge.startup.StartEventObserver/]: JEI StartEventObserver transitioning state from JEI_STARTED to DISABLED
+[277月2024 21:02:55.225] [Render thread/INFO] [mezz.jei.library.startup.JeiStarter/]: Stopping JEI
+[277月2024 21:02:55.225] [Render thread/INFO] [mezz.jei.library.load.PluginCaller/]: Sending Runtime Unavailable...
+[277月2024 21:02:55.226] [Render thread/INFO] [mezz.jei.forge.plugins.forge.ForgeGuiPlugin/]: Stopping JEI GUI
+[277月2024 21:02:55.228] [Render thread/INFO] [mezz.jei.library.load.PluginCaller/]: Sending Runtime Unavailable took 2.571 ms
+[277月2024 21:02:55.236] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: koh1z lost connection: 连接中断
+[277月2024 21:02:55.237] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: koh1z退出了游戏
+[277月2024 21:02:55.339] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Stopping singleplayer server as player logged out
+[277月2024 21:02:55.350] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Stopping server
+[277月2024 21:02:55.350] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving players
+[277月2024 21:02:55.350] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving worlds
+[277月2024 21:02:55.611] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[测试]'/minecraft:overworld
+[277月2024 21:02:56.205] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[测试]'/minecraft:the_end
+[277月2024 21:02:56.207] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[测试]'/minecraft:the_nether
+[277月2024 21:02:56.224] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (测试): All chunks are saved
+[277月2024 21:02:56.224] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[277月2024 21:02:56.224] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[277月2024 21:02:56.224] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage: All dimensions are saved
+[277月2024 21:02:56.426] [Render thread/INFO] [ChunkBuilder/]: Stopping worker threads
+[277月2024 21:02:57.052] [Render thread/INFO] [net.minecraft.client.Minecraft/]: Stopping!
